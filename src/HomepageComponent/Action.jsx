@@ -15,10 +15,10 @@ const Action = () => {
           <img src={topUp} alt="" />
           <img src={topDown} alt="" />
         </div>
-        <div className=" md:h-[full] mt-2 md:mt-0">
+        <div className=" md:h-[full] mt-5 md:mt-0">
           <img src={middle} alt="" />
         </div>
-        <div className=" md:h-[full] mt-2 md:mt-0">
+        <div className=" md:h-[full] mt-5 md:mt-0">
           <img src={sidetopUp} alt="" />
           <img src={sideDown} alt="" />
         </div>

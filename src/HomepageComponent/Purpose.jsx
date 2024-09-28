@@ -2,11 +2,11 @@ import Gpeople from "../assets/Rectangle 12.png";
 import tickMark from "../assets/Tick02.svg";
 const Purpose = () => {
   return (
-    <div className="relative md:flex   h-[550px] capitalize   py-4 px-6 ">
+    <div className="relative md:flex   h-[550px] capitalize mt-4   py-4 px-6 ">
       <div className="block w-[320px] md:w-[40%]  absolute bottom-2 md:top-14 right-4 md:left-8  h-fit ">
         <img src={Gpeople} alt="" className="md:h-[400px] w-[full]  " />
       </div>
-      <div className="block absolute top-2 md:top-32 md:right-1 md:w-[50%]">
+      <div className="block absolute top-4 md:top-32 md:right-1 md:w-[50%]">
         <h2 className="font-bold py-2 md:text-3xl">our purpose</h2>
         <nav>
           <div className="list-none">
